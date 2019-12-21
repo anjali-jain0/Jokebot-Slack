@@ -1,1 +1,2 @@
- A Joke Slackbot
+# Jokebot-Slack
+A SLackbot for requesting random jokes.
